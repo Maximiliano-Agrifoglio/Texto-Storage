@@ -1,4 +1,4 @@
 
-Almacenando textos en local storage
+Almacenando textos en local storage.
 Proyecto hecho con javascript vanilla
 
